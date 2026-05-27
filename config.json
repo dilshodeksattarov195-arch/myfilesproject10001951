@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerperify",
+        "uuid": 14117436,
+        "checksum": "jz9lgn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
